@@ -59,6 +59,7 @@ Quick learner with excellent analytical and problem-solving skills.
 📧 **Email**: [salimhidya@gmail.com](mailto:salimhidya@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/salimhidya](https://www.linkedin.com/in/salimhidya)  
 💻 **GitHub**: [github.com/Salimhidya77] 
+(https://github.com/Salimhidya77
 
 <!--
 **Salimhidya77/Salimhidya77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
