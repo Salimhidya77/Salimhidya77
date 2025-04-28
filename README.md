@@ -33,24 +33,17 @@ Quick learner with excellent analytical and problem-solving skills.
 ---
 
 ## 🛠️ **PROJECTS**
-### **1. Three-Tier Application with Docker**  
-✅ **Backend**: Multi-stage Dockerfile  
-✅ **Database**: Credentials managed via host machine  
-✅ **Proxy**: HTTP protocol with host-managed configs  
-✅ **Networking**: Isolated networks per container  
-✅ **Deployment**: Single-command setup  
-
-### **2. TermiContacts**  
+### **1. TermiContacts**  
 📞 **Bash-based contact manager**  
 - Add, view, search, and delete contacts  
 - Plain-text storage  
 
-### **3. Nginx-Web Server**  
+### **2. Nginx-Web Server**  
 🌐 **Custom Nginx configuration**  
 - Dockerized deployment  
 - Kubernetes-ready (`deployfile.yml`)  
 
-### **4. Flask Application**  
+### **3. Flask Application**  
 🐍 **Containerized Flask app**  
 - Kubernetes deployment via `NodePort` 
 ---
